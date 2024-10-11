@@ -23,10 +23,10 @@ public class Main {
         System.out.println();
 
         // Task3
-        int speed = 100;
+        int speed = 60;
         if (speed > 60) {
             System.out.println("Если скорость " + speed + " км/ч, придется заплатить штраф");
-        } else if (speed > 60) {
+        } else {
             System.out.println("Если скорость " + speed + " км/ч, можно ездить спокойно");
         }
         System.out.println();
